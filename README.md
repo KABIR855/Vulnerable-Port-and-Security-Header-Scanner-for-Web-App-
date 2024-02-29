@@ -8,6 +8,7 @@ Date: 1st March 2024
 Python Script Functionality Overview
 
 Introduction
+
 The provided Python script offers functionality to assess the security posture of a website or IP address. It conducts checks on security headers and open ports, generating a detailed vulnerability report in PDF format.
 
  Features
